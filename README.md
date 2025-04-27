@@ -62,6 +62,8 @@ Página web em PHP que consulta dados de empresas através do CNPJ utilizando a 
 ### Validação:
 - O campo CNPJ só aceita números e valida o formato (14 dígitos).
 
+---
+
 ## 📄Licença
 Este projeto é destinado exclusivamente para fins educacionais.
 Desenvolvido para a disciplina de Programação Web - 3º Semestre noturno de ADS.# Trabalho_PHP_Consulta_CNPJ
