@@ -1,0 +1,162 @@
+{
+  "abertura": "19/10/1970",
+  "situacao": "ATIVA",
+  "tipo": "MATRIZ",
+  "nome": "SERASA S.A.",
+  "porte": "DEMAIS",
+  "natureza_juridica": "205-4 - Sociedade Anônima Fechada",
+  "atividade_principal": [
+    {
+      "code": "70.20-4-00",
+      "text": "Atividades de consultoria em gestão empresarial, exceto consultoria técnica específica"
+    }
+  ],
+  "atividades_secundarias": [
+    {
+      "code": "62.01-5-01",
+      "text": "Desenvolvimento de programas de computador sob encomenda"
+    },
+    {
+      "code": "62.02-3-00",
+      "text": "Desenvolvimento e licenciamento de programas de computador customizáveis"
+    },
+    {
+      "code": "62.03-1-00",
+      "text": "Desenvolvimento e licenciamento de programas de computador não-customizáveis"
+    },
+    {
+      "code": "62.04-0-00",
+      "text": "Consultoria em tecnologia da informação"
+    },
+    {
+      "code": "62.09-1-00",
+      "text": "Suporte técnico, manutenção e outros serviços em tecnologia da informação"
+    },
+    {
+      "code": "63.11-9-00",
+      "text": "Tratamento de dados, provedores de serviços de aplicação e serviços de hospedagem na internet"
+    },
+    {
+      "code": "64.63-8-00",
+      "text": "Outras sociedades de participação, exceto holdings"
+    },
+    {
+      "code": "66.19-3-02",
+      "text": "Correspondentes de instituições financeiras"
+    },
+    {
+      "code": "66.19-3-99",
+      "text": "Outras atividades auxiliares dos serviços financeiros não especificadas anteriormente"
+    },
+    {
+      "code": "71.19-7-01",
+      "text": "Serviços de cartografia, topografia e geodésia"
+    },
+    {
+      "code": "72.10-0-00",
+      "text": "Pesquisa e desenvolvimento experimental em ciências físicas e naturais"
+    },
+    {
+      "code": "73.11-4-00",
+      "text": "Agências de publicidade"
+    },
+    {
+      "code": "73.19-0-04",
+      "text": "Consultoria em publicidade"
+    },
+    {
+      "code": "73.19-0-99",
+      "text": "Outras atividades de publicidade não especificadas anteriormente"
+    },
+    {
+      "code": "74.90-1-03",
+      "text": "Serviços de agronomia e de consultoria às atividades agrícolas e pecuárias"
+    },
+    {
+      "code": "74.90-1-04",
+      "text": "Atividades de intermediação e agenciamento de serviços e negócios em geral, exceto imobiliários"
+    },
+    {
+      "code": "74.90-1-99",
+      "text": "Outras atividades profissionais, científicas e técnicas não especificadas anteriormente"
+    },
+    {
+      "code": "77.39-0-99",
+      "text": "Aluguel de outras máquinas e equipamentos comerciais e industriais não especificados anteriormente, sem operador"
+    },
+    {
+      "code": "77.40-3-00",
+      "text": "Gestão de ativos intangíveis não-financeiros"
+    },
+    {
+      "code": "82.91-1-00",
+      "text": "Atividades de cobranças e informações cadastrais"
+    },
+    {
+      "code": "85.99-6-04",
+      "text": "Treinamento em desenvolvimento profissional e gerencial"
+    }
+  ],
+  "qsa": [
+    {
+      "nome": "VALDEMIR BERTOLO",
+      "qual": "16-Presidente"
+    },
+    {
+      "nome": "SERGIO SOUZA FERNANDES JUNIOR",
+      "qual": "10-Diretor"
+    },
+    {
+      "nome": "FABIANO JOSE LOUSADA PACHECO",
+      "qual": "10-Diretor"
+    },
+    {
+      "nome": "FLAVIO BALESTRIN DE PAIVA",
+      "qual": "10-Diretor"
+    },
+    {
+      "nome": "TATIANA MACHADO DE CAMPOS",
+      "qual": "10-Diretor"
+    },
+    {
+      "nome": "MIRIAM SAYURI KIMURA CARDONA",
+      "qual": "10-Diretor"
+    }
+  ],
+  "logradouro": "AV DAS NACOES UNIDAS",
+  "numero": "14401",
+  "complemento": "ANEXO TORRE C-1 COND COMPLEX PQ DA CIDADECONJ 191 192 201 202 211 SALA CJ 212 221 222 231 SETOR CJ 232 241 E 242",
+  "municipio": "SAO PAULO",
+  "bairro": "VILA GERTRUDES",
+  "uf": "SP",
+  "cep": "04.794-000",
+  "email": "atende.serasa@br.experian.com",
+  "telefone": "(11) 2847-9061",
+  "data_situacao": "15/09/2021",
+  "cnpj": "62.173.620/0001-80",
+  "ultima_atualizacao": "2025-04-22T16:08:56.918Z",
+  "status": "OK",
+  "fantasia": "",
+  "efr": "",
+  "motivo_situacao": "",
+  "situacao_especial": "",
+  "data_situacao_especial": "",
+  "capital_social": "174000001.00",
+  "simples": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-04-19T23:59:59.000Z"
+  },
+  "simei": {
+    "optante": false,
+    "data_opcao": null,
+    "data_exclusao": null,
+    "ultima_atualizacao": "2025-03-22T23:59:59.000Z"
+  },
+  "extra": {},
+  "billing": {
+    "free": true,
+    "database": true
+  }
+}
